@@ -14,7 +14,7 @@ The C++ file organizer will sort files by extension, using standard library I/O 
 - Memory management
 - I/O functions
 - Hash tables
-- Depth-first search
+- Depth-first search algorithm
 
 ## Requirements
 
