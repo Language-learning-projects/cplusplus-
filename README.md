@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # C++ file organizer
 
 This repository contains code of a learning project called: "C++ file organizer".
